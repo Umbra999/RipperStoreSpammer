@@ -1,0 +1,16 @@
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\bin\Debug\netcoreapp3.1\RipperStoreFucker.exe
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\bin\Debug\netcoreapp3.1\RipperStoreFucker.deps.json
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\bin\Debug\netcoreapp3.1\RipperStoreFucker.runtimeconfig.json
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\bin\Debug\netcoreapp3.1\RipperStoreFucker.runtimeconfig.dev.json
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\bin\Debug\netcoreapp3.1\RipperStoreFucker.dll
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\bin\Debug\netcoreapp3.1\RipperStoreFucker.pdb
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\obj\Debug\netcoreapp3.1\RipperStoreFucker.csproj.AssemblyReference.cache
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\obj\Debug\netcoreapp3.1\RipperStoreFucker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\obj\Debug\netcoreapp3.1\RipperStoreFucker.AssemblyInfoInputs.cache
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\obj\Debug\netcoreapp3.1\RipperStoreFucker.AssemblyInfo.cs
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\obj\Debug\netcoreapp3.1\RipperStoreFucker.csproj.CoreCompileInputs.cache
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\obj\Debug\netcoreapp3.1\RipperStoreFucker.csproj.CopyComplete
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\obj\Debug\netcoreapp3.1\RipperStoreFucker.dll
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\obj\Debug\netcoreapp3.1\RipperStoreFucker.pdb
+C:\Users\NotUmbra\source\repos\RipperStoreFucker\RipperStoreFucker\obj\Debug\netcoreapp3.1\RipperStoreFucker.genruntimeconfig.cache
