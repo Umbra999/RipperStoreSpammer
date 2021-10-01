@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SiG2U7kfaJPCKBje0Izw+cisP12I6snn/uhRlfhNdwlhiVFW8+AlmewWObEgj/vMe9xnWzfTi8zcfoTtQj1tlQ==",
+  "dgSpecHash": "S9OdMy/DcdXy329qwEBTWc2lEBqp0nTmQGbJeUsj50UcgQnDEQSmg1+jGWPwKCiSZB3bJZ8IEDh5nzZDnjlZMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NotUmbra\\source\\repos\\RipperStoreFucker\\RipperStoreFucker\\RipperStoreFucker.csproj",
+  "projectFilePath": "C:\\Users\\NotUmbra\\Documents\\GitHub\\RipperStoreSpammer\\RipperStoreFucker\\RipperStoreFucker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NotUmbra\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

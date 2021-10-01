@@ -25,6 +25,12 @@ namespace RipperStoreFucker
             return text;
         }
 
+        public static int RandomNumber()
+        {
+            int number = Random.Next(0, 9);
+            return number;
+        }
+
         public static string APIKey;
 
         static void Main(string[] args)
@@ -84,9 +90,10 @@ namespace RipperStoreFucker
             obj["Endpoint"] = "avatars";
             obj["RequiredProperties"] = "Il2CppSystem.Collections.Generic.IEnumerable`1[System.String]";
             obj["TargetProperties"] = "Il2CppSystem.Collections.Generic.IEnumerable`1[Il2CppSystem.Reflection.PropertyInfo]";
-            obj["Pointer"] = "23906341452485";
+            int Number = RandomNumber();
+            obj["Pointer"] = $"23{Number}0{Number}3{Number}145{Number}48{Number}";
 
-            StringContent data = new StringContent(JsonConvert.SerializeObject(obj, Newtonsoft.Json.Formatting.None, new JsonSerializerSettings { ReferenceLoopHandling = ReferenceLoopHandling.Ignore }), Encoding.UTF8, "application/json");
+            StringContent data = new StringContent(JsonConvert.SerializeObject(obj, Formatting.None, new JsonSerializerSettings { ReferenceLoopHandling = ReferenceLoopHandling.Ignore }), Encoding.UTF8, "application/json");
 
             Console.WriteLine("Sending Request");
             var res = new HttpClient().PostAsync($"https://api.ripper.store/clientarea/credits/submit?apiKey={APIKey}&v=6&t={DateTimeOffset.Now.ToUnixTimeSeconds()}", data).GetAwaiter().GetResult();
